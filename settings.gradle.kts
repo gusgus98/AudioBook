@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Floss Player"
 include(":app")
- 
+include(":libs")
